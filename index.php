@@ -191,6 +191,7 @@ $v = fn($f) => $f . '?v=' . @filemtime(__DIR__ . '/' . $f);
     </aside>
   </div>
 </main>
+<p class="src-link" style="text-align:center;font-size:.85rem;opacity:.8;margin:18px 0 28px">Free and open source: <a href="https://github.com/kvk-code/kiranvk-lexyacc-lab" rel="noopener" target="_blank">Source on GitHub</a> (MIT) · contributions welcome</p>
 
 <div class="modal hidden" id="modal"><div class="box">
   <h3>AI tutor: your own free NVIDIA key</h3>
